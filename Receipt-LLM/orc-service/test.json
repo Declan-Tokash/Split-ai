@@ -1,0 +1,12 @@
+{
+    "store": "BLACK HIDE QUEEN'S WHARF",
+    "date": "25-03-25 07:22",
+    "items": [
+      { "name": "ENTREE PLATTER", "price": 39.00 },
+      { "name": "STRIPLOIN 300G", "price": 78.00 },
+      { "name": "EYE FILLET 270G", "price": 85.00 },
+      { "name": "RIB EYE 350G", "price": 96.00 },
+      { "name": "CHEDDAR MASH", "price": 21.00 },
+      { "name": "RED WINE", "price": 15.00 }
+    ]
+  }

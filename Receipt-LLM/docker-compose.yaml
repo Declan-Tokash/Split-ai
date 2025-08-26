@@ -1,0 +1,18 @@
+version: '3.9'
+services:
+  orc:
+    build: ./orc-service
+    ports:
+      - "3000:3000"
+    networks:
+      - llm-net
+
+  llama:
+    build: ./llama-service
+    ports:
+      - "5000:5000"
+    networks:
+      - llm-net
+
+networks:
+  llm-net:
